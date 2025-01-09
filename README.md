@@ -11,6 +11,7 @@ My personal website (in progress) can be found [here](https://rootware.github.io
 ## ⭐ Selected Projects
 - Interpreting convolutional neural networks and using them as a variational quantum algorithm for qubit systems [paper](https://arxiv.org/abs/2210.00692)
 - Using reinforcement learning to optimize design of quantum sensors and circuits [Sample Github 1](https://github.com/rootware/lattice_evolution),  [Sample Github 2](https://github.com/rootware/BayesianData)
+- Implementing my own custom DDQN for physics (ongoing project) [Github](https://github.com/rootware/Reinforcement_Learning_DQN_using_Burn)
 - Using Neural Networks to Solve Hamiltonians [Demo](https://github.com/rootware/RBM-for-Quantum-Spin-Hamiltonians)
 
 <!--
