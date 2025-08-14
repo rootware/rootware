@@ -6,7 +6,7 @@ I usually like working on diverse topics. On the physics side, I work in quantum
 
 On the programming side, I love coding hobby projects here and there. I use Python, Mathematica and C++ for work, and Rust for personal projects. My obsession with Rust is a bit recent, and am fascinated about its applicability to scientific computing. In the past, I have also used Fortran, Matlab, Java and R.
 
-My personal website (in progress) can be found [here](https://rootware.github.io/).
+My personal website (in progress) can be found [here](https://rootware.github.io/). My work Github account can be found [here](https://github.com/rootware-ionq).
 
 ## ⭐ Selected Projects
 - Interpreting convolutional neural networks and using them as a variational quantum algorithm for qubit systems [paper](https://arxiv.org/abs/2210.00692)
