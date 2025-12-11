@@ -1,6 +1,6 @@
-#  Hi, I'm Shah 👋
+#  Hi, I'm Rootware 👋
 
-I'm a theoretical and computational quantum physicist who likes the interface of math, physics and programming. Specifically, I like interfacing machine learning and reinforcement learning techniques with quantum algorithms for solving quantum theory problems as well as designing quantum systems. I'm currently a Senior Scientist at IonQ. My work Github account can be found [here](https://github.com/rootware-ionq).
+I'm a theoretical and computational quantum physicist who likes the interface of math, physics and programming. Specifically, I like interfacing machine learning and reinforcement learning techniques with quantum algorithms for solving quantum theory problems as well as designing quantum systems.
 
 I usually like working on diverse topics. On the physics side, I work in quantum sensing, quantum computing, quantum information theory, physics informed machine learning, and using reinforcement learning and artificial neural networks to augment quantum algorithms and design tasks (see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dpsqpvYAAAAJ) ) 
 
