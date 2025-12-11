@@ -1,4 +1,4 @@
-#  Hi, I'm Rootware 👋
+#  Hi! 👋
 
 I'm a theoretical and computational quantum physicist who likes the interface of math, physics and programming. Specifically, I like interfacing machine learning and reinforcement learning techniques with quantum algorithms for solving quantum theory problems as well as designing quantum systems.
 
