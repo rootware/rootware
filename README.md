@@ -14,6 +14,7 @@ My personal website (in progress) can be found [here](https://rootware.github.io
 - Playing around with Rust and C++ interfacing, since the RL used for my publications is in C++ and the physics simulations are usually in Rust.
 - Implementing my own custom DDQN in Rust using the Burh API. Goal is to make physics informed RL in Rust for my Rust physics projects (ongoing project) [Github](https://github.com/rootware/Reinforcement_Learning_DQN_using_Burn)
 - Using Neural Networks to Solve Hamiltonians [Demo](https://github.com/rootware/RBM-for-Quantum-Spin-Hamiltonians)
+- Learning about clifford circuit simulations (extremely amateur implementation)[https://github.com/rootware/Clifford_Sim]
 
 <!--
 **rootware/rootware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
