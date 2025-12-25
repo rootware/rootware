@@ -12,7 +12,7 @@ My personal website (in progress) can be found [here](https://rootware.github.io
 - Interpreting convolutional neural networks and using them as a variational quantum algorithm for qubit systems [paper](https://arxiv.org/abs/2210.00692)
 - Using reinforcement learning to optimize design of quantum sensors and circuits [Sample Github 1](https://github.com/rootware/lattice_evolution),  [Sample Github 2](https://github.com/rootware/BayesianData) used for the [paper](https://arxiv.org/abs/2405.07907).
 - Playing around with Rust and C++ interfacing, since the RL used for my publications is in C++ and the physics simulations are usually in Rust.
-- Implementing my own custom DDQN in Rust using the Burh API. Goal is to make physics informed RL in Rust for my Rust physics projects (ongoing project) [Github](https://github.com/rootware/Reinforcement_Learning_DQN_using_Burn)
+- Implementing my own custom DDQN in Rust using the Burn API. Goal is to make physics informed RL in Rust for my Rust physics projects (ongoing project) [Github](https://github.com/rootware/Reinforcement_Learning_DQN_using_Burn)
 - Using Neural Networks to Solve Hamiltonians [Demo](https://github.com/rootware/RBM-for-Quantum-Spin-Hamiltonians)
 - Learning about clifford circuit simulations (extremely amateur implementation)[https://github.com/rootware/Clifford_Sim]
 
